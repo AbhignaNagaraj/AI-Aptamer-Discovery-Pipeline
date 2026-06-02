@@ -6,7 +6,7 @@
 
 Computational SELEX-NGS workflow for RNA aptamer discovery integrating motif analysis, RNA structure prediction, thermodynamic filtering, and protein–RNA docking.
 
-![Pipeline](workflow/pipeline_overview.jpeg)
+![Pipeline](workflow/pipeline_overview.jpg)
 
 ---
 
