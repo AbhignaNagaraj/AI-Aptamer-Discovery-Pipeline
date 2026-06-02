@@ -1,8 +1,12 @@
 # AI-Assisted Aptamer Discovery Pipeline
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Bioinformatics](https://img.shields.io/badge/Domain-Bioinformatics-green)
+![RNA Biology](https://img.shields.io/badge/RNA-Structural_Biology-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Computational SELEX-NGS workflow for RNA aptamer discovery integrating motif analysis, RNA structure prediction, thermodynamic filtering, and protein–RNA docking.
 
-![Pipeline](workflow/pipeline_overview.png)
+![Pipeline](workflow/pipeline_overview.jpeg)
 
 ---
 
